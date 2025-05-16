@@ -105,9 +105,3 @@ streamlit run app.py
 - Personalized recipe recommendations
 - Indian cuisine NLP research
 - Diet-specific or time-efficient cooking suggestions
-
----
-
-## 📃 License
-
-MIT License © 2025 Anurag Karpe
