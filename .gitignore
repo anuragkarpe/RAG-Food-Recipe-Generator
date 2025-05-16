@@ -1,0 +1,6 @@
+
+__pycache__/
+*.pyc
+.env
+config.py
+indian_food_recipes.csv
